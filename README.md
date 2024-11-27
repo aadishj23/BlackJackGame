@@ -1,2 +1,4 @@
-# BlackJackGame
-https://aadishjain-blackjack-game.netlify.app/
+# BlackJack Game
+
+- Made using HTML, CSS and JS
+- Website: https://blackjack.aadish.tech/
